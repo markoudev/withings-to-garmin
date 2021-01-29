@@ -1,0 +1,6 @@
+---
+withings_client_id: xxx
+withings_client_secret: xxx
+withings_callback_url: https://withings2garmin.eu.ngrok.io/withings-callback
+garmin_username: xxx
+garmin_password: xxx
